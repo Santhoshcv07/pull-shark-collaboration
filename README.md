@@ -1,1 +1,3 @@
-# pull-shark-collaboration
+## Collaboration
+
+This repository demonstrates a collaborative GitHub workflow.
